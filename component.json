@@ -1,0 +1,17 @@
+{
+  "name": "date-methods",
+  "description": "Common date methods.",
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "moment/moment": "~2.8.4",
+    "component/event": "~0.1.4"
+  },
+  "development": {
+    "dependencies": {
+      "component/assert": "0.5.0",
+      "boblauer/MockDate": "v1.0.1"
+    }
+  }
+}
