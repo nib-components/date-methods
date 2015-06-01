@@ -1,0 +1,21 @@
+{
+  "name": "@nib-components/date-methods",
+  "version": "0.1.0",
+  "description": "Common date methods.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-components/date-methods.git"
+  },
+  "dependencies": {
+    "moment": "~2.8.4",
+    "component-event": "~0.1.4"
+  },
+  "devDependencies": {
+    "assert": "0.5.0",
+    "mockdate": "v1.0.1"
+  },
+  "browser": {
+    "event": "component-event"
+  }
+}
