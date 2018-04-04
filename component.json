@@ -5,7 +5,7 @@
     "index.js"
   ],
   "dependencies": {
-    "moment/moment": "~2.8.4",
+    "moment/moment": "~2.22.0",
     "component/event": "~0.1.4"
   },
   "development": {
