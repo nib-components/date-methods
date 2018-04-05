@@ -1,6 +1,6 @@
 {
   "name": "@nib-components/date-methods",
-  "version": "0.1.1",
+  "version": "1.0.0",
   "description": "Common date methods.",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,7 @@
     "url": "git@github.com:nib-components/date-methods.git"
   },
   "dependencies": {
-    "moment": "~2.8.4",
+    "moment": "~2.22.0",
     "component-event": "~0.1.4"
   },
   "devDependencies": {
